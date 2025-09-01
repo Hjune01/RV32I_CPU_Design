@@ -30,8 +30,6 @@ FSM 기반 제어기로 효율적인 동작을 구현하였습니다.
 
 ## 🔄 FSM (Finite State Machine)
 
-<p align="center">
-  <img src="docs/fsm.png" alt="CPU FSM" width="700">
-</p>
+<img width="1043" height="1036" alt="Image" src="https://github.com/user-attachments/assets/583796c0-bed2-42ae-9f60-51388b7b2aa5" />
 
 ---
