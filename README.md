@@ -23,14 +23,12 @@ FSM 기반 제어기로 효율적인 동작을 구현하였습니다.
 ---
 
 ## 📂 블록 다이어그램
-CPU의 전체 구조를 블록 다이어그램으로 표현했습니다.
 
 <img width="1717" height="1093" alt="Image" src="https://github.com/user-attachments/assets/89dd5d68-84bb-4e54-9904-3af1d3488b4b" />
 
 ---
 
 ## 🔄 FSM (Finite State Machine)
-멀티사이클 CPU의 제어 흐름은 FSM을 통해 구현되었습니다.  
 
 <p align="center">
   <img src="docs/fsm.png" alt="CPU FSM" width="700">
