@@ -2,7 +2,7 @@
 
 ## 📌 프로젝트 개요
 본 프로젝트는 **RISC-V RV32I Base Instruction Set**을 지원하는  
-**멀티사이클(Multi-Cycle) CPU**를 **SystemVerilog**와 **Vivado**를 사용하여 설계한 것입니다.  
+**멀티사이클(Multi-Cycle) CPU**를 **SystemVerilog**와 **Vivado**를 사용하여 설계했습니다.
 CPU의 각 명령어 실행 과정을 **Instruction Fetch → Decode → Execute → Memory → Write-Back** 단계로 분리하여,  
 FSM 기반 제어기로 효율적인 동작을 구현하였습니다.
 
