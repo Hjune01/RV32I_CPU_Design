@@ -18,18 +18,14 @@ FSM 기반 제어기로 효율적인 동작을 구현하였습니다.
 본 CPU는 **RV32I Base Instruction Set**을 지원합니다.  
 아래 표는 지원하는 주요 명령어를 요약한 것입니다.  
 
-<p align="center">
-  <img src="docs/instruction_set.png" alt="RV32I Instruction Set" width="700">
-</p>
+<img width="1107" height="926" alt="Image" src="https://github.com/user-attachments/assets/a2b52f56-5e73-4e00-984a-9137b4781d6b" />
 
 ---
 
 ## 📂 블록 다이어그램
 CPU의 전체 구조를 블록 다이어그램으로 표현했습니다.
 
-<p align="center">
-  <img src="docs/block_diagram.png" alt="CPU Block Diagram" width="700">
-</p>
+<img width="1717" height="1093" alt="Image" src="https://github.com/user-attachments/assets/89dd5d68-84bb-4e54-9904-3af1d3488b4b" />
 
 ---
 
