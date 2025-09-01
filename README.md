@@ -11,7 +11,6 @@ FSM 기반 제어기로 효율적인 동작을 구현하였습니다.
 ## 🛠️ 개발 환경
 - **언어**: SystemVerilog  
 - **EDA Tool**: Xilinx Vivado  
-- **Target**: RTL Simulation 및 FPGA (예: Basys3, Nexys A7)  
 
 ---
 
